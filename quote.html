@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>오늘의 한 마디</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fef9e7;
+      text-align: center;
+      padding: 50px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      background-color: #5dade2;
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    #quote {
+      margin-top: 30px;
+      font-size: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🌟 오늘의 한 마디 🌟</h1>
+  <button onclick="showQuote()">눌러보세요</button>
+  <div id="quote">여기에 문장이 표시됩니다.</div>
+
+  <script>
+    const quotes = [
+      "할 수 있다. 지금 아니면 언제?",
+      "실패는 성공의 어머니!",
+      "천 리 길도 한 걸음부터!",
+      "포기하지 마, 끝까지 가보자.",
+      "성장은 반복에서 온다.",
+      "작은 습관이 큰 결과를 만든다."
+    ];
+
+    function showQuote() {
+      const randomIndex = Math.floor(Math.random() * quotes.length);
+      document.getElementById("quote").textContent = quotes[randomIndex];
+    }
+  </script>
+
+</body>
+</html>
