@@ -70,3 +70,69 @@
 
 </body>
 </html>
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>OHongHong123의 웹페이지</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      padding: 20px;
+      background-color: #f0f8ff;
+    }
+
+    h2 {
+      color: #2c3e50;
+    }
+
+    ul {
+      background: #e0f7fa;
+      padding: 15px;
+      border-radius: 10px;
+      width: fit-content;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 15px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    #text {
+      margin-top: 15px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ✅ 2번: 기술 목록 -->
+  <h2>🛠️ 배우고 있는 기술</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Git & GitHub</li>
+  </ul>
+
+  <!-- ✅ 3번: 버튼 클릭 기능 -->
+  <h2>🎯 간단한 인터랙션</h2>
+  <button id="btn">눌러보세요</button>
+  <p id="text">👋 아직 버튼을 안 눌렀어요.</p>
+
+  <script>
+    document.getElementById("btn").onclick = function() {
+      document.getElementById("text").textContent = "🎉 버튼을 눌렀습니다!";
+    }
+  </script>
+
+</body>
+</html>
