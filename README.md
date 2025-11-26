@@ -1,4 +1,8 @@
 # 🎤🎣 안녕하세요! [OHonghong123] 입니다
+![Status](https://img.shields.io/badge/Status-Studying-blue)
+![Language](https://img.shields.io/badge/Language-Korean-brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/OHonghong123?style=social)
+
 
 
 
@@ -32,7 +36,9 @@
 
 - 📬 Email: xogldkwnd@gmail.com    
 - 🎥 유튜브 (노래 영상): [(https://www.youtube.com/@jjlave)]
+
+
 ## 🌐 GitHub 웹페이지
 👉 ([https://OHonghong123.github.io](https://ohonghong123.github.io/OHongHong123/))
-
+✨ 오늘의 한 마디 | 랜덤 문장 출력 기능 JS 실습 | [보러가기](https://ohonghong123.github.io/quote.html) |
 ---
