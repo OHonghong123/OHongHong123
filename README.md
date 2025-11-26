@@ -42,5 +42,5 @@
 👉 ([https://OHonghong123.github.io](https://ohonghong123.github.io/OHongHong123/))
 
 
-✨ 오늘의 한 마디 | 랜덤 문장 출력 기능 JS 실습 | [보러가기](https://ohonghong123.github.io/quote.html) |
+✨ 오늘의 한 마디 | 랜덤 문장 출력 기능 JS 실습 | [보러가기](https://ohonghong123.github.io/OHongHong123/quote.html) |
 ---
