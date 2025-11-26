@@ -44,3 +44,11 @@
 
 ✨ 오늘의 한 마디 | 랜덤 문장 출력 기능 JS 실습 | [보러가기](https://ohonghong123.github.io/OHongHong123/quote.html) |
 ---
+
+
+<nav style="background:#eee; padding:10px;">
+  <a href="index.html">홈</a> |
+  <a href="quote.html">오늘의 한 마디</a> |
+  <a href="project.html">프로젝트</a> |
+  <a href="contact.html">연락처</a>
+</nav>
