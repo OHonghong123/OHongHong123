@@ -46,9 +46,4 @@
 ---
 
 
-<nav style="background:#eee; padding:10px;">
-  <a href="index.html">홈</a> |
-  <a href="quote.html">오늘의 한 마디</a> |
-  <a href="project.html">프로젝트</a> |
-  <a href="contact.html">연락처</a>
-</nav>
+
